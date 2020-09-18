@@ -1,0 +1,14 @@
+{
+  "name": "site-ghid",
+  "version": "1.0.0",
+  "description": "Acest repository conține sursele care generează site-ul cu Ghidul Bobocului, varianta online.",
+  "private": "true",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "author": "ASMI",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
