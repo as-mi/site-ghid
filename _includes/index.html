@@ -1,3 +1,9 @@
+<!-- prettier-ignore -->
+{% capture css %}
+  {% include index.css %}
+{% endcapture %}
+<!-- prettier-unignore -->
+
 <!DOCTYPE html>
 <html lang="ro">
   <head>
@@ -8,7 +14,9 @@
       href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap"
       rel="stylesheet"
     />
-    <link href="index.css" rel="stylesheet" />
+    <style>
+      {{ css | cssmin | safe }}
+    </style>
 
     <title>Ghidul Bobocului FMI</title>
   </head>

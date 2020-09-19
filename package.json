@@ -10,5 +10,8 @@
   "author": "ASMI",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0"
+  },
+  "dependencies": {
+    "clean-css": "^4.2.3"
   }
 }
