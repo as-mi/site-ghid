@@ -29,6 +29,10 @@ npm start
 
 pentru a avea acces la un server local cu un preview al site-ului.
 
+## Publicare
+
+Modificările pe `master` sunt încărcate automat pe server prin GitHub Actions.
+
 ## Licență
 
 Ghidul Bobocului este © 2020 Asociația Studenților la Matematică și Informatică.
