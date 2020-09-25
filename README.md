@@ -7,9 +7,13 @@ cu conținutul scris în Markdown.
 
 ## Organizare
 
-- `/index.md`: conținutul text al ghidului, scris în Markdown
-- `/_includes/`: director care conține template-ul de HTML/CSS pentru layout
-- `/_site/`: director temporar în care se generează site-ul final
+- `/index.md`: conținutul text al ghidului, scris în Markdown.
+- `/_includes/`: director care conține template-ul de HTML/CSS pentru layout.
+  - `base.html`: scheletul comun de HTML pentru toate paginile.
+  - `index.html`: template-ul pentru prima pagină.
+  - `page.html`: template-ul pentru paginile diferitelor secțiuni.
+- `/css/`: director care conține stilurile CSS.
+- `/_site/`: director temporar în care se generează site-ul final.
 
 ## Cum contribui?
 

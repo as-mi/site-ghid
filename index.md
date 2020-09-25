@@ -14,6 +14,8 @@ Acest ghid este scris în _Markdown_.
 
 Aceasta este altă secțiune din ghid.
 
+[Despre burse](burse)
+
 ### Subsecțiune nouă
 
 O secțiune nouă.

@@ -20,10 +20,6 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  return {
-    dir: {
-      // Only process the `index.md` file, ignore the `README`.
-      input: "index.md",
-    },
-  };
+  // Copy `css/` directly to output.
+  eleventyConfig.addPassthroughCopy("css");
 };

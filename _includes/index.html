@@ -1,33 +1,16 @@
-<!-- prettier-ignore -->
-{% capture css %}
-  {% include index.css %}
-{% endcapture %}
-<!-- prettier-unignore -->
+---
+layout: base.html
+title: Ghidul Bobocului FMI
+style: index.css
+---
 
-<!DOCTYPE html>
-<html lang="ro">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <link
-      href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap"
-      rel="stylesheet"
+<!-- Template pentru conținutul de pe pagina principală. -->
+<main>
+  <div style="float: right">
+    <img
+      src="https://www.asmi.ro/wp-content/uploads/2019/08/cropped-asmi-logo-3.png"
+      alt="Logo ASMI"
     />
-    <style>
-      {{ css | cssmin | safe }}
-    </style>
-
-    <title>Ghidul Bobocului FMI</title>
-  </head>
-  <body>
-    <div style="float: right">
-      <img
-        src="https://www.asmi.ro/wp-content/uploads/2019/08/cropped-asmi-logo-3.png"
-        alt="Logo ASMI"
-      />
-    </div>
-
-    {{ content | safe }}
-  </body>
-</html>
+  </div>
+  {{ content | safe }}
+</main>

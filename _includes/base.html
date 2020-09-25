@@ -1,0 +1,19 @@
+<!-- Template comun pentru pagina principală și pentru paginile secțiunilor. -->
+<!DOCTYPE html>
+<html lang="ro">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="css/{{ style }}" rel="stylesheet" />
+
+    <title>{{title}}</title>
+  </head>
+  <body>
+    {{ content | safe }}
+  </body>
+</html>
