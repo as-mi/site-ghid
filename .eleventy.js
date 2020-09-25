@@ -16,4 +16,7 @@ module.exports = function (eleventyConfig) {
 
   // Copy `css/` directly to output.
   eleventyConfig.addPassthroughCopy("css");
+
+  // Copy `images/` directly to output.
+  eleventyConfig.addPassthroughCopy("images");
 };
