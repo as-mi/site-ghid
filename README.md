@@ -19,6 +19,10 @@ cu conținutul scris în Markdown.
 
 Trebuie să ai [Node.js](https://nodejs.org/en/) și NPM instalat.
 
+De asemenea, acest repository folosește [Git Large File Storage](https://git-lfs.github.com/)
+pentru a stoca imaginile.
+Pe Windows vine instalat cu Git, pe alte sisteme de operare trebuie instalat din package manager.
+
 Pentru a instala Eleventy, rulează
 
 ```sh
