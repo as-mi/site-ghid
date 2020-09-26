@@ -71,5 +71,5 @@ Nu ezita să contactezi unul din reprezentanții studenților din mandatul 2019-
 - Reprezentant al tuturor studenților, indiferent de forma de an, domeniu sau formă de învățământ: [**Stoleru Vlad-Ștefan**](mailto:vlad.stoleru@gmail.com);
 - [Adresa unică a Studenților Reprezentanți din Consiliul Facultății](mailto:studenti.consiliufmi@gmail.com).
 
-- Reprezentant în Senatul Universității: [**Dawod Paul-Nasse**](mailto:nasserpaul@gmail.com) **r** ;
+- Reprezentant în Senatul Universității: [**Dawod Paul-Nasser**](mailto:nasserpaul@gmail.com) ;
 - Reprezentant în Senatul Universității: [**Stoleru Vlad-Ștefan**](mailto:vlad.stoleru@gmail.com).
