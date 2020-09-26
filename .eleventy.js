@@ -1,12 +1,6 @@
 const htmlmin = require("html-minifier");
-const CleanCSS = require("clean-css");
 
 module.exports = function (eleventyConfig) {
-  // Add a filter for minimizing CSS
-  eleventyConfig.addFilter("cssmin", function (code) {
-    return new CleanCSS({}).minify(code).styles;
-  });
-
   // Add a transform for minimizing HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (outputPath.endsWith(".html")) {
@@ -22,4 +16,7 @@ module.exports = function (eleventyConfig) {
 
   // Copy `css/` directly to output.
   eleventyConfig.addPassthroughCopy("css");
+
+  // Copy `images/` directly to output.
+  eleventyConfig.addPassthroughCopy("images");
 };
