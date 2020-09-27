@@ -2402,31 +2402,32 @@ body {
 .animated-title {
   color: white;
   font-family: "Notable";
-  font-size: 25%;
+  font-size: 20%;
   height: 90vmin;
   left: 50%;
-  position: relative;
-  top: 100%;
+  position: absolute;
+  top: 50%;
   transform: translate(-50%, -50%);
-  width: 90%;
+  width: 90vmin;
 }
+
 .animated-title > div {
   height: 50%;
   overflow: hidden;
-  position: relative;
+  position: absolute;
   width: 100%;
 }
 .animated-title > div div {
-  font-size: 12vmin;
+  font-size: 10vmin;
   padding: 2vmin 0;
-  position: relative;
+  position: absolute;
 }
 .animated-title > div div span {
   display: block;
 }
 .animated-title > div.text-top {
   border-bottom: 3vmin solid white;
-  top: 25%;
+  top: 0;
 }
 .animated-title > div.text-top div {
   animation: showTopText 0.75s;
@@ -2437,7 +2438,7 @@ body {
 }
 
 .animated-title > div.text-bottom {
-  bottom: -25%;
+  bottom: 0;
 }
 .animated-title > div.text-bottom div {
   animation: showBottomText 0.5s;
@@ -2452,6 +2453,7 @@ body {
   text-align: center;
   cursor: default;
   padding-top: 10%;
+  height: 90vh;
 }
 
 #banner > .inner {
@@ -2700,7 +2702,7 @@ body.is-ie .post {
   text-decoration: var(--uirLinkTextDecoration) !important;
 }
 
-/* The component will reset browser's styles of titles */
+/*reset browser's styles of titles */
 
 .r-title {
   --uirTitleMarginTop: var(--rTitleMarginTop, 0);
@@ -2710,23 +2712,12 @@ body.is-ie .post {
   margin-bottom: var(--uirTitleMarginBottom) !important;
 }
 
-/*
-=====
-CORE STYLES
-=====
-*/
-
 .animated-underline {
   --uiAnimatedUnderlineWidth: var(--animatedUnderlineWidth, 100%);
   --uiAnimatedUnderlineHeight: var(--animatedUnderlineHeight, 2px);
   --uiAnimatedUnderlineBgColor: var(--animatedUnderlineBgColor, currentColor);
   --uiAnimatedUnderlinePositionX: var(--animatedUnderlinePositionX, left);
   --uiAnimatedUnderlinePositionY: var(--animatedUnderlinePositionY, bottom);
-
-  /*
-		1. For multi-line animated underline the "inline" value for the display property is compulsory.
-		2. Adds opportunity to create multi-line padding
-	*/
 
   --rLinkDisplay: inline; /* 1 */
 
