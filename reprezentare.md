@@ -85,6 +85,19 @@ Asociația Studenților la Matematică și Informatică (ASMI) vizează în prin
 
 ASMI susține conceptul de voluntariat, încurajează implicarea tinerilor în organizații studențești și vizează un dublu impact: pe de-o parte, dezvoltarea unor abilități esențiale în viitoarea carieră, pe de altă parte, relaționarea cu tineri de aceeași vârstă și cu preocupări comune, cu scopul demarării de proiecte socio culturale pentru studenți. Promovează spiritul de lucru în echipă, solidaritatea, responsabilizarea tinerilor și dorința de a progresa. Cu siguranță ai văzut voluntari îmbrăcați cu tricoul ASMIîn mediul online și nu numai, unde ai fost întâmpinat de către aceștia, ca și nou student al facultății. În perioada următoare vei lua contact cu o serie întreagă de evenimente, pregătite special pentru tine.
 
+Câteva proiecte viitoare:
+
+- **Dialog Deschis**: ne strângem pe o platforma online care se va anunța
+  ulterior, pe data de 8 octombrie și studenții mai mari vă povestesc cum
+  stă treaba când vine vorba despre credite, ce trebuie să faci ca să nu
+  rămai cu restanțe, care-i faza cu materiile facultative, cu bursele și
+  cu multe altele.
+- **Smarthack**: Un hackathon de 24 de ore în care mai multe echipe de 3-4
+  studenți lucrează la dezvoltarea unui produs software pe baza unei teme,
+  care se finalizează cu jurizarea și premierea celor mai bune echipe.
+  Concursul va avea loc pe 31 octombrie - 1 noiembrie și poți câștiga 1000
+  EURO.
+
 Link-uri către platformele de social media:
 
 - [Instagram](https://www.instagram.com/asmi.ub)
