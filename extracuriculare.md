@@ -9,21 +9,21 @@ Cu toate ca e greu de crezut, ca student vei avea și timp liber pe care cu sigu
 
 Pentu cei care vor să experimenteze online, comunitatile IT atat din Bucuresti cat si din toata tara organizeaza deseori workshopuri pentru studenti si nu numai. Asa ca cel mai bine e sa fiti cu ochii pe paginile lor.
 
-- Cateva exemple de comunitati IT sunt:
+Câteva exemple de comunități IT sunt:
 
-- Security Espresso: [https://www.facebook.com/secespresso](https://www.facebook.com/secespresso)
+- [Security Espresso](https://www.facebook.com/secespresso)
 
-- JS League: [https://www.facebook.com/jsleague.ro](https://www.facebook.com/jsleague.ro)
+- [JS League](https://www.facebook.com/jsleague.ro)
 
-- BucharestJS: [https://www.facebook.com/groups/BucharestJS](https://www.facebook.com/groups/BucharestJS)
+- [BucharestJS](https://www.facebook.com/groups/BucharestJS)
 
-- Codette: [https://www.facebook.com/codette.ro](https://www.facebook.com/codette.ro)
+- [Codette](https://www.facebook.com/codette.ro)
 
-- Google Developers: [https://www.facebook.com/groups/GoogleAtelierulDigital](https://www.facebook.com/groups/GoogleAtelierulDigital)
+- [Google Developers](https://www.facebook.com/groups/GoogleAtelierulDigital)
 
-- Tabara de testare: [https://www.facebook.com/Tabara.de.Testare](https://www.facebook.com/Tabara.de.Testare)
+- [Tabara de testare](https://www.facebook.com/Tabara.de.Testare)
 
-- cocoaHeads bucharest [https://www.facebook.com/CocoaHeadsBucharest](https://www.facebook.com/CocoaHeadsBucharest)
+- [cocoaHeads bucharest](https://www.facebook.com/CocoaHeadsBucharest)
 
 În varianta offline, Bucureștiul este plin de oportunități, dar în funcție de cum avansează lucrurile îti oferim niste variante culturale:
 
@@ -35,4 +35,4 @@ Pentru cei ce doresc să se distreze alături de prieteni recomandăm Escape Roo
 
 Persoanele mai boeme pot să își petreacă timpul în frumoasele cafenele din oraș (Bob Coffee Lab, Beans&amp;Dots, Ted&#39;s Coffee, Second Cup, Acuarela, Antipa Cafe and Terrace, Artichoke Coffee Shop, Camera din Fata etc). ![](RackMultipart20200930-4-1bzj06i_html_ce2a4149f9879e15.jpg)
 
-![](RackMultipart20200930-4-1bzj06i_html_ca6c185545b785a6.jpg)În zilele călduroase te poți bucura de discuțiile cu prietenii la o bere sau la o limonadă răcoroasă în OktoberFest Pub, Fire Club, Halftime Pub, Student Pub, Quantic etc. Și nu în ultimul rând, pentru petrecăreții înrăiți, noaptea, în Centrul Vechi și prin zonă, e locul perfect pentru a te distra. Amintim aici câteva dintre cele mai apreciate pub-uri din rândul studenților: Silver Church, Kulturhaus, Revenge Club, Beraria H etc.
+În zilele călduroase te poți bucura de discuțiile cu prietenii la o bere sau la o limonadă răcoroasă în OktoberFest Pub, Fire Club, Halftime Pub, Student Pub, Quantic etc. Și nu în ultimul rând, pentru petrecăreții înrăiți, noaptea, în Centrul Vechi și prin zonă, e locul perfect pentru a te distra. Amintim aici câteva dintre cele mai apreciate pub-uri din rândul studenților: Silver Church, Kulturhaus, Revenge Club, Beraria H etc.
