@@ -1,5 +1,6 @@
 ---
 layout: page.html
+title: Reprezentare studențească și voluntariat
 ---
 
 # Reprezentare studențească
