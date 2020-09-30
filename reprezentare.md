@@ -87,5 +87,5 @@ ASMI susține conceptul de voluntariat, încurajează implicarea tinerilor în o
 
 Link-uri către platformele de social media:
 
-- [https://www.instagram.com/asmi.ub](https://www.instagram.com/asmi.ub)
-- [https://www.facebook.com/asmi.ub](https://www.facebook.com/asmi.ub)
+- [Instagram](https://www.instagram.com/asmi.ub)
+- [Facebook](https://www.facebook.com/asmi.ub)
