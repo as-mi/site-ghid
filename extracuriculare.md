@@ -5,9 +5,9 @@ title: Activități Extracuriculare
 
 # Extracuriculare
 
-Cu toate ca e greu de crezut, ca student vei avea și timp liber pe care cu siguranță te întrebi cum l-ai putea valorifica. Fie că esti sau alegi să te muți în Bucuresti, fie ca alegi sa ramai acasa avem variante pentru fiecare.
+Cu toate că e greu de crezut, ca student vei avea și timp liber pe care cu siguranță te întrebi cum l-ai putea valorifica. Fie că ești sau alegi să te muți în Bucuresti, fie că alegi să râmâi acasă, avem variante pentru fiecare.
 
-Pentu cei care vor să experimenteze online, comunitatile IT atat din Bucuresti cat si din toata tara organizeaza deseori workshopuri pentru studenti si nu numai. Asa ca cel mai bine e sa fiti cu ochii pe paginile lor.
+Pentu cei care vor să experimenteze online, comunitățile IT atât din Bucuresti cât și din toată țara organizează deseori workshop-uri pentru studenți și nu numai. Așa că cel mai bine e să fiți cu ochii pe paginile lor.
 
 Câteva exemple de comunități IT sunt:
 
