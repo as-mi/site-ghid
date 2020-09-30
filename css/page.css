@@ -10,7 +10,7 @@ h1 {
   font-family: "Alfa Slab One";
   text-align: center;
   font-style: normal;
-  font-size: 4.5vmax;
+  font-size: 4vmax;
   padding-top: 5%;
   padding-bottom: 5%;
   margin-top: 0;
@@ -25,14 +25,13 @@ body {
   padding-right: 10%;
   padding-bottom: 10%;
   color: rgb(255, 255, 255);
-  font-size: 200%;
+  font-size: 140%;
   font-optical-sizing: auto;
-  font-stretch: ultra-expanded;
 }
 
 #test {
   margin-top: 25px;
-  font-size: 21px;
+
   text-align: center;
 
   -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
