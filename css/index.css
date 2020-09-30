@@ -2661,8 +2661,8 @@ body.is-ie .post {
 
 .post.style2 {
   background-color: #fff;
-  color: rgb(127, 128, 129);
-  font-weight: lighter;
+  color: rgb(105, 106, 107);
+  font-weight: bolder;
   font-style: italic;
   transition: transform 2s;
 }
