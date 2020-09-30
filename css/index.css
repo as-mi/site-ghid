@@ -2406,7 +2406,7 @@ body {
   height: 90vmin;
   left: 50%;
   position: absolute;
-  top: 50%;
+  top: 45%;
   transform: translate(-50%, -50%);
   width: 90vmin;
 }
@@ -2562,6 +2562,7 @@ body.is-ie .post {
   padding: 8em;
   text-align: center;
   position: relative;
+  z-index: 6000000;
 }
 
 .post .content:before {
@@ -2576,6 +2577,7 @@ body.is-ie .post {
 .post .content .inner {
   display: inline-block;
   vertical-align: middle;
+  z-index: 6000000;
 }
 
 .post .content header h2 {
@@ -2687,7 +2689,7 @@ body.is-ie .post {
 .post.style2 h5,
 .post.style2 h6 {
   color: #3498db;
-  font-family: fantasy;
+  font-family: "Alfa Slab One";
   text-align: center;
   font-style: normal;
 }
@@ -3049,21 +3051,32 @@ SETTINGS
   padding: 4em 0 2em 0;
   background: #1c1c1c;
   text-align: center;
+  font-family: inherit;
 }
 
 #footer a {
+  font-size: 110%;
   color: rgba(255, 255, 255, 0.75);
 }
 
 #footer a:hover {
-  color: #fff;
+  color: rgb(41, 243, 209);
 }
 
 #footer .copyright {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.75);
   font-size: 0.9em;
   margin: 0 0 2em 0;
   padding: 0;
+}
+
+#footer .cont {
+  font-weight: bold;
+  font-size: 120%;
+}
+
+#footer .contact {
+  position: relative;
 }
 
 @media screen and (max-width: 736px) {
