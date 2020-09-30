@@ -73,3 +73,18 @@ Nu ezita să contactezi unul din reprezentanții studenților din mandatul 2019-
 
 - Reprezentant în Senatul Universității: [**Dawod Paul-Nasser**](mailto:nasserpaul@gmail.com) ;
 - Reprezentant în Senatul Universității: [**Stoleru Vlad-Ștefan**](mailto:vlad.stoleru@gmail.com).
+
+# Voluntariat
+
+## ASMI - Asociația Studenților la Matematică și Informatică
+
+Dacă-ți dorești ca studenția ta să fie mai mult decât cămin facultate-cantină și înapoi, avem o veste foarte bună pentru tine.
+
+Asociația Studenților la Matematică și Informatică (ASMI) vizează în principal dezvoltarea pe plan profesional, socio cultural și personal a tinerilor. În acest sens, oferă studenților șansa de a lua contact cu experți din domeniile studiate în facultate, organizează întâlniri, dezbateri, traininguri și realizează proiecte cu impact asupra pregătirii resurselor umane pentru piața muncii.
+
+ASMI susține conceptul de voluntariat, încurajează implicarea tinerilor în organizații studențești și vizează un dublu impact: pe de-o parte, dezvoltarea unor abilități esențiale în viitoarea carieră, pe de altă parte, relaționarea cu tineri de aceeași vârstă și cu preocupări comune, cu scopul demarării de proiecte socio culturale pentru studenți. Promovează spiritul de lucru în echipă, solidaritatea, responsabilizarea tinerilor și dorința de a progresa. Cu siguranță ai văzut voluntari îmbrăcați cu tricoul ASMIîn mediul online și nu numai, unde ai fost întâmpinat de către aceștia, ca și nou student al facultății. În perioada următoare vei lua contact cu o serie întreagă de evenimente, pregătite special pentru tine.
+
+Link-uri către platformele de social media:
+
+- [https://www.instagram.com/asmi.ub](https://www.instagram.com/asmi.ub)
+- [https://www.facebook.com/asmi.ub](https://www.facebook.com/asmi.ub)

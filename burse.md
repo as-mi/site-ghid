@@ -1,6 +1,6 @@
 ---
 layout: page.html
-style: page.css
+title: Burse
 ---
 
 # Burse

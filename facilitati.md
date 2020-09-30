@@ -1,5 +1,6 @@
 ---
 layout: page.html
+title: Facilități
 ---
 
 # Facilitati
