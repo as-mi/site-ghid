@@ -25,16 +25,16 @@ Dacă ați susținut un examen de 2 ori și nu l-ați promovat pentru a treia su
 
 După cum știți, este confirmat faptul că în anul universitar 2020-2021, primul semestru se va desfășura in regim online ceea ce înseamnă că vă veți conecta pe o platformă de videoconferință pentru a va prezenta la ore.
 
-Principalele platforme cu care o sa va intalniti sunt Microsoft Teams, Zoom, WebEx, Google Meet, Discord, fiecare profesor alegandu-si pe ce platforma vrea sa-si sustina ora.
+Principalele platforme cu care o sa vă întâlniți sunt Microsoft Teams, Zoom, WebEx, Google Meet, Discord, fiecare profesor alegându-și pe ce platforma vrea să-și susțină ora.
 
-Pentru a afla cum va sustineti orele, va trebui sa intrati pe MoodleUB pe pagina cursului, unde profesorii vor pune inainte de fiecare ora linkurile de conectare. Uneori, unii profesori opteaza sa trimita sefului de grupa linkul, iar el/ea va trebui sa vi-l distribuie voua.
+Pentru a afla cum vă susțineți orele, va trebui să intrati pe MoodleUB pe pagina cursului, unde profesorii vor pune inainte de fiecare ora linkurile de conectare. Uneori, unii profesori optează să trimită șefului de grupă linkul, iar el/ea va trebui să vi-l distribuie vouă.
 
-Orele online se vor desfasura folosind urmatoarele tool-uri:
+Orele online se vor desfășura folosind următoarele tool-uri:
 
-- [MoodleUB](https://moodle.unibuc.ro/) este "sediul central" al activitatii voastre online. Aici, profesorii isi vor urca materialele de curs, temele, vor anunta deadline-uri, datele examenelor si multe altele. Te vei conecta pe Moodle folosind adresa de e-mail institutionala.
-  UMS (https://ums.unibuc.ro/) este catalogul online al Universității. Aici iti vei vedea notele finale dupa sesiunile de examinare, marire etc.
-- Adresa de e-mail institutională (`@s.unibuc.ro`): În interactiunile tale cu mediul academic vei folosi intotdeauna adresa de e-mail institutionala, de forma `prenume.nume@s.unibuc.ro`. Pentru a obtine acces la adresa ta, va trebui sa te conectezi intai pe UMS folosind datele tale (vei gasi instructiuni pe pagina). Dupa aceea, vei gasi adresa de email in sectiunea "Date student", dupa ce apesi pe butonul "Contact".
+- [MoodleUB](https://moodle.unibuc.ro/) este "sediul central" al activității voastre online. Aici, profesorii își vor urca materialele de curs, temele, vor anunța deadline-uri, datele examenelor și multe altele. Te vei conecta pe Moodle folosind adresa de e-mail instituțională.
+  UMS (https://ums.unibuc.ro/) este catalogul online al Universității. Aici îți vei vedea notele finale după sesiunile de examinare, mărire etc.
+- Adresa de e-mail instituțională (`@s.unibuc.ro`): În interacțiunile tale cu mediul academic vei folosi întotdeauna adresa de e-mail instituțională, de forma `prenume.nume@s.unibuc.ro`. Pentru a obține acces la adresa ta, va trebui să te conectezi întâi pe UMS folosind datele tale (vei gasi instrucțiuni pe pagină). Dupa aceea, vei găsi adresa de email în secțiunea "Date student", după ce apeși pe butonul "Contact".
 
-## Ce asteptari ar trebui sa am de la orele online?
+## Ce așteptări ar trebui să am de la orele online?
 
-Cum facultatea reprezinta o trecere la alta etapa a vietii, va trebui sa va asteptati ca profesorii vor avea o atitudine diferita fata de cei din liceu. Astfel, ei se asteapta sa fiti responsabili si sa va interesati in legatura cu ceea ce aveti de facut, deadline-urile voastre, sa fiti activi la ore daca doriti puncte bonus (majoritatea materiilor vor avea o metoda de a obtine puncte) etc.
+Cum facultatea reprezintă o trecere la altă etapă a vieții, va trebui sa vă așteptați ca profesorii vor avea o atitudine diferită față de cei din liceu. Astfel, ei se așteaptă să fiți responsabili și să vă interesați în legatură cu ceea ce aveți de făcut, deadline-urile voastre, să fiți activi la ore dacă doriți puncte bonus (majoritatea materiilor vor avea o metodă de a obține puncte) etc.
