@@ -5,7 +5,7 @@ title: Reprezentare studențească și voluntariat
 
 # Reprezentare studențească
 
-Ca și student al Universității din București, unul dintre cele mai importante drepturi pe care le ai este cel de a alege și de a fi ales, ca și **reprezentant al studenților** , în **Consiliul Facultății, Senatul Universității** și toate celelalte **structuri decizionale, consultative sau administrative** din cadrul acesteia, inclusiv în **Consiliul de Administrație al Universității**.
+Ca și student al Universității din București, unul dintre cele mai importante drepturi pe care le ai este cel de a alege și de a fi ales, ca și **reprezentant al studenților**, în **Consiliul Facultății, Senatul Universității** și toate celelalte **structuri decizionale, consultative sau administrative** din cadrul acesteia, inclusiv în **Consiliul de Administrație al Universității**.
 
 ([_Regulamentul privind activitatea profesională a studenților_](https://unibuc.ro/wp-content/uploads/2019/10/Regulament-privind-activitatea-profesional%C4%83-a-studentilor-modificat-2019.pdf)_, Art.10, lit. F_)
 
@@ -21,7 +21,7 @@ Pe scurt, rolul unui reprezentant este acela de a media legătura dintre Faculta
 
 - Identificarea de soluții pentru problemele apărute în cadrul procesului de învățământ;
 
-- Promovarea în rândul studenților a tuturor regulamentelor interne Facultății sau Universității, precum [**Carta Universitară**](https://www.unibuc.ro/wp-content/uploads/2018/12/CARTA-UB.pdf), **Codul de Etică**, [**Codul Drepturilor și Obligațiilor Studentului**](https://drive.google.com/file/d/0B-WydKlC-sxCblczQUlJQklMMXc/view) (**CDOS**) și [**Regulamentul privind Activitatea Profesională a Studenților**](https://fs.valahia.ro/images/Documente/raps.pdf) (**RAPS**).
+- Promovarea în rândul studenților a tuturor regulamentelor interne Facultății sau Universității, precum [**Carta Universitară**](https://www.unibuc.ro/wp-content/uploads/2018/12/CARTA-UB.pdf), **Codul de Etică**, [**Codul Drepturilor și Obligațiilor Studentului (CDOS)**](https://drive.google.com/file/d/0B-WydKlC-sxCblczQUlJQklMMXc/view) și [**Regulamentul privind Activitatea Profesională a Studenților (RAPS)**](https://fs.valahia.ro/images/Documente/raps.pdf).
 
 Un student poate ocupa, în urma unor alegeri organizate la începutul anului universitar în care candidează și este ales cu un mandat de un an universitar, două poziții de reprezentare:
 
@@ -36,7 +36,7 @@ Un student poate ocupa, în urma unor alegeri organizate la începutul anului un
    1. Un reprezentant pentru DL CTI, anii 3 și 4;
    1. Un reprezentant pentru toți studenții, indiferent de forma de învățământ, specializare sau anul de studiu.
 
-   Reprezentanții studenților în facultate sunt implicați activ în proceduri precum **admiterea** , **cazarea în cămine** , **acordarea burselor** ( **de merit, speciale, sociale** ), a **locurilor în tabere** și **informarea studenților** - pe Facebook, informarea are loc prin intermediul paginii [Studenți Reprezentanți - Consiliu FMI UniBuc](https://www.facebook.com/consiliuFMI/).
+   Reprezentanții studenților în facultate sunt implicați activ în proceduri precum **admiterea**, **cazarea în cămine**, **acordarea burselor** (**de merit, speciale, sociale**), a **locurilor în tabere** și **informarea studenților** - pe Facebook, informarea are loc prin intermediul paginii [Studenți Reprezentanți - Consiliu FMI UniBuc](https://www.facebook.com/consiliuFMI/).
 
 2. **Reprezentant al studenților în Senatul Universității**. Acesta face parte, alături de reprezentanții celorlalte facultăți din cadrul Universității, din **Consiliul pentru Probleme Studențești** (**CPS**) și participă la ședințele Senatului. Facultatea de Matematică și Informatică are două poziții pentru studenții reprezentanți în Senat, pentru care poate candida orice student al facultății, indiferent de forma de învățământ, domeniu, specializare sau an, atâta timp cât îndeplinește condițiile de natură etică și (de neapartenență) politică.
 
@@ -69,10 +69,10 @@ Nu ezita să contactezi unul din reprezentanții studenților din mandatul 2019-
 - Reprezentant Mate, anul 3: [**Dumitru Nicoleta**](mailto:nicoleta3.nd@gmail.com);
 - Reprezentant Info, anul 3: [**Anei Alexandra Gabriela**](mailto:anei.alexandra98@gmail.com);
 - Reprezentant CTI, anii 3 și 4: [**Nițu Cristina**](mailto:cristinanitu98@yahoo.ro);
-- Reprezentant al tuturor studenților, indiferent de forma de an, domeniu sau formă de învățământ: [**Stoleru Vlad-Ștefan**](mailto:vlad.stoleru@gmail.com);
+- Reprezentant al tuturor studenților, indiferent de an, domeniu sau formă de învățământ: [**Stoleru Vlad-Ștefan**](mailto:vlad.stoleru@gmail.com);
 - [Adresa unică a Studenților Reprezentanți din Consiliul Facultății](mailto:studenti.consiliufmi@gmail.com).
 
-- Reprezentant în Senatul Universității: [**Dawod Paul-Nasser**](mailto:nasserpaul@gmail.com) ;
+- Reprezentant în Senatul Universității: [**Dawod Paul-Nasser**](mailto:nasserpaul@gmail.com);
 - Reprezentant în Senatul Universității: [**Stoleru Vlad-Ștefan**](mailto:vlad.stoleru@gmail.com).
 
 # Voluntariat
