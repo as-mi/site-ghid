@@ -65,7 +65,7 @@ Universitatea București dispune de o cantină, cantina “Mihail Kogalniceanu�
   la stația “Facultatea de Drept”. Cantina se află în apropierea
   stației de metrou “Eroilor”.
 
-În acest an universitar, pentru reducerea riscului de infectare cu noul coronavirus a studenților Universității din București, cantina va funcționa în regim de ridicare a produselor gata preparate. De asemenea, accesul la cantină va fi restricționat în conformitate cu legislația în vigoare.
+În acest an universitar, pentru reducerea riscului de infectare cu noul coronavirus a studenților Universității din București, servirea mesei se face atât în sala de mese, în limita unui număr de maxim 50 de persoane, cât și în regim de ridicare a produselor gata preparate – „to go”. De asemenea, accesul la cantină va fi restricționat în conformitate cu legislația în vigoare.
 
 ## Biblioteca
 
