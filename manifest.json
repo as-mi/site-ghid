@@ -1,0 +1,17 @@
+{
+  "short_name": "Ghidul Bobocului",
+  "name": "Ghidul Bobocului la Facultatea de Matematică și Informatică",
+  "icons": [
+    {
+      "src": "/images/asmi.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3498db",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3498db",
+  "description": "Ghidul Bobocului conține informații utile pentru studenții nou veniți la Facultatea de Matematică și Informatică"
+}

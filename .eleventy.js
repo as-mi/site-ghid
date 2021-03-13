@@ -1,4 +1,5 @@
 const htmlmin = require("html-minifier");
+const pluginPWA = require("@pragmatics/eleventy-plugin-pwa");
 
 module.exports = function (eleventyConfig) {
   // Add a transform for minimizing HTML
@@ -19,4 +20,10 @@ module.exports = function (eleventyConfig) {
 
   // Copy `images/` directly to output.
   eleventyConfig.addPassthroughCopy("images");
+
+  // Add a plugin for PWA support
+  eleventyConfig.addPlugin(pluginPWA);
+
+  // Copy the PWA manifest to the output directory
+  eleventyConfig.addPassthroughCopy("manifest.json");
 };
